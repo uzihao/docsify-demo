@@ -18,4 +18,5 @@
 4. 参考本index.html，包括window.$docsify的相关自定义配置，以及相关库的引用
 5. 参考本REAME.md、_coverpage.md、_siderbar.md等（概述文档、主页文档、目录文档...）
 6. 本地run.bat，预览指令，[预览](http://localhost:3000/#/)
+6. 参考官方文档了解更多
 
